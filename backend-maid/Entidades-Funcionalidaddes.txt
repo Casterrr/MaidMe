@@ -1,0 +1,16 @@
+Entidades:
+- Housekeepers
+
+Funcionalidades:
+- Cadastrar | Done
+- Enviar email com o ID ao cadastrar | DONE
+- Listar empregados:
+    - Filtragem | DONE
+- Listar dados de um empregado em específico | DONE
+- Entrar em contato com o empregado
+- Alterar dados de um empregado | DONE
+
+-  Apagar um empregado:
+     -Código de verificação por email | DONE
+     -> SITE ENSINANDO: https://imasters.com.br/front-end/enviando-e-mail-usando-node-js
+
